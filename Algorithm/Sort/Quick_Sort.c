@@ -31,7 +31,7 @@ int quick_sort(int* arr,int left, int right){
 }
 
 int main(void){ 
-    quick_sort(arr, 0, 9); // 결과 확인 
+    quick_sort(arr, 0, 9);
     for(int i=0; i<10; i++){ 
         printf("%d ", arr[i]); 
     } 
