@@ -1,3 +1,10 @@
+/**
+* Brifely explicate method
+* 
+* @ param int a // Explain about method's parameters
+* @ return // Explain about what method return
+* @ exception // Explain about exception
+*/
 #include <stdio.h>
 void mergeSort(int data[], int p, int r);
 void merge(int data[], int p, int q, int r);

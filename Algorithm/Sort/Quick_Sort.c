@@ -1,3 +1,10 @@
+/**
+* Brifely explicate method
+* 
+* @ param int a // Explain about method's parameters
+* @ return // Explain about what method return
+* @ exception // Explain about exception
+*/
 #include <stdio.h>
 
 int arr[10] = {1,4,5,8,7,2,3,6,0,9};

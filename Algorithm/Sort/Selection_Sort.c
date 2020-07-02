@@ -1,3 +1,10 @@
+/**
+* Brifely explicate method
+* 
+* @ param int a // Explain about method's parameters
+* @ return // Explain about what method return
+* @ exception // Explain about exception
+*/
 #include <stdio.h>
 int Linear_Search(int* arr,int len,int start);
 int printarr(int* arr, int len);
