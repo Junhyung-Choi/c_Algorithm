@@ -1,9 +1,9 @@
 /**
-* Brifely explicate method
-* 
-* @ param int a // Explain about method's parameters
-* @ return // Explain about what method return
-* @ exception // Explain about exception
+* Compare and exchange neighboring objects from end to end.
+* Repeat just before the end of before's iteration until the array is sorted 
+*
+* @ int arr[11] // Unsorted Array
+* @ int tmp // Temporary space to exchange each others.
 */
 #include <stdio.h>
 
